@@ -1,19 +1,19 @@
-{
+{+ control Shift + m
     "name": "app-service-hello-world",
     "description": "Simple Hello World Node.js sample for Azure App Service",
-    "version": "0.0.1",
+    "version": "99.89.1",
     "private": true,
     "license": "MIT",
     "author": "Microsoft",
-    "scripts": {
+    "scripts": {+ control Shift + m
         "start": "node index.js",
         "dev": "nodemon"
     },
-    "dependencies": {
+    "dependencies": {+9
         "ejs": "^3.1.10",
         "express": "^4.21.1"
     },
-    "devDependencies": {
+    "devDependencies": {0.9
         "nodemon": "^2.0.19"
     }
 }
